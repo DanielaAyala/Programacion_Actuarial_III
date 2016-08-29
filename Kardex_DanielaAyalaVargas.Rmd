@@ -1,0 +1,61 @@
+---
+title: "KARDEX_AyalaVargasDaniela"
+author: "DanielaAyala"
+date: "29 de agosto de 2016"
+output: html_document
+---
+
+
+##calificaciones
+ 
+ **Otoño 2013**
+ *Programación Actuarial I 5
+ *intr. a la Profesión actuarial 8
+ *dhpc 9
+ *conceptos de cálculo 5
+ *Matemáticas Basicas 7
+ *Problemas de Mat.Basicas 7
+ 
+ 
+ **primavera 2014**
+*Programación actuarial I 6
+* Teoria del interes I 5
+*Microeconomia 10
+*Formación humana y social 9
+*Conceptos de calculo 7
+*Teoria de ecuaciones 8
+
+
+**Otoño 2014**
+*Teoria del interes I 8
+*Macroeconomia 9
+*Calculo Diferencial 9
+*Algebra Lineal I 8
+
+
+**Primavera 2015**
+*Programación Actuarial II 5
+*Teoria del interes II 6
+*Contabilidad General 7
+*Demografia I 10
+*DHTIC 10
+*Calculo integral 7
+
+
+**Otoño 2015**
+*Sistema financiero mexicano 10
+*Legislación de seguros 9
+*Matematicas Actuariales 5
+*cal. Dif. en Var, Variables 5
+*Ecuaciones Diferenciales I 7
+*Probabilidad I 5
+
+
+**Primavera 2016**
+*Programación Actuarial 8
+*Matematicas Actuariales I 6
+*Derivados Financieros 6
+*Reg. Acad. y Cient. del Esp. 9
+*Cal. Dif. en Var. Variables 9
+*Probabilidad I 10
+
